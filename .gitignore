@@ -6,6 +6,9 @@
 # dotenv files
 .env
 
+# .NET SDK user data
+.dotnet/
+
 # User-specific files
 *.rsuser
 *.suo
